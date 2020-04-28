@@ -1,0 +1,29 @@
+devices:
+  interactive:
+    - device: 'iPhone5S'
+      name: Thrush
+    - device: 'Mac mini (Later 2012)'
+      name: Ibis
+    - device: 'MacBookAir’13 (Mid 2013)'
+      name: Egret
+    - device: 'iPhone6sPlus'
+      name: Lark
+    - device: 'iPad 6th'
+      name: Canary
+    - device: 'MacbookPro’15(2019)'
+       name: Kingfisher
+    - device: 'iPhoneSE'
+      name: Crane
+  storage:
+    - device: 'USB3.0メモリ'
+      name: Parakeet
+    - device: 'USB2.0メモリ'
+      name: Owl
+    - device: 'HDD(USB3.0)'
+      name: Hawk
+  utility:
+    - device: 'AirMacExtream'
+      name: Kiwi
+  empty:
+    - device: 'NONE'
+      name: Wagtail
