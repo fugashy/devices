@@ -1,7 +1,5 @@
 devices:
   interactive:
-    - device: 'iPhone5S'
-      name: Thrush
     - device: 'Mac mini (Later 2012)'
       name: Ibis
     - device: 'MacBookAir’13 (Mid 2013)'
@@ -25,5 +23,7 @@ devices:
     - device: 'AirMacExtream'
       name: Kiwi
   empty:
-    - device: 'NONE'
+    - device: 'None'
       name: Wagtail
+    - device: 'None'
+      name: Thrush
