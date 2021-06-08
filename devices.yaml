@@ -12,6 +12,12 @@ devices:
        name: Kingfisher
     - device: 'iPhoneSE'
       name: Crane
+    - device: 'NintendoSwitch'
+      name: Wagtail
+    - device: 'Bravia'
+      name: Quail
+    - device: 'AirPodsPro'
+      name: Thrush
   storage:
     - device: 'USB3.0メモリ'
       name: Parakeet
@@ -22,8 +28,3 @@ devices:
   utility:
     - device: 'AirMacExtream'
       name: Kiwi
-  empty:
-    - device: 'None'
-      name: Wagtail
-    - device: 'None'
-      name: Thrush
